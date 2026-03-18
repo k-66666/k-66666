@@ -15,7 +15,7 @@ Java Developer | Spring Boot Developer
 * 🎓 计算机相关专业学生
 * ☕ 主要方向：Java 后端开发
 * 🧩 专注 Spring Boot 系统开发
-* 🚀 对 Web 系统架构和软件工程项目开发感兴趣
+* 🚀 对Ai Agent、 Web 系统架构和软件工程项目开发感兴趣
 
 ---
 
@@ -82,7 +82,7 @@ https://github.com/k-66666/Computer-English-Learn-Platform
 
 ---
 
-## 📚 自然辩证法学习网站
+## 📚 自然辩证法刷题网站
 
 用于展示自然辩证法课程学习内容的教育类网站。
 
@@ -127,6 +127,9 @@ https://ziranbianzhengfa.vercel.app/
 
 GitHub
 https://github.com/k-66666
+Email
+llk6666666@gmail.com
+sss812@yeah.net
 
 ---
 
