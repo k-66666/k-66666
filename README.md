@@ -86,12 +86,12 @@ https://github.com/k-66666/Chestnut-KTV-Sales-System
 
 ---
 
-## 🛠 sql-er-
+## 👗 smart-wardrobe · 智慧衣柜系统
 
-输入 SQL 建表语句，快速生成 ER 图的开发者小工具。
+软硬结合的智慧衣柜应用：衣柜环境监测、数据可视化与衣物分类管理。
 
 项目地址
-https://github.com/k-66666/sql-er-
+https://github.com/k-66666/smart-wardrobe
 
 ---
 
